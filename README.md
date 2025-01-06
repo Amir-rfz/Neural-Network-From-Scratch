@@ -75,7 +75,7 @@ The neural network is tested on both regression (California Housing) and classif
    ```
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook ml_models.ipynb
+   jupyter notebook neural-networks-from-scratch-with-numpy.ipynb
    ```
 4. Follow the steps in the notebook to run the data analysis and model evaluations.
 
